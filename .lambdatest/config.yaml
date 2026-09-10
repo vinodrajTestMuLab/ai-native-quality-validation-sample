@@ -9,7 +9,7 @@ assignee: 3452607
 configuration_id: 359647
 
 # Test URL for automation
-# test_url: "https://demo.lambdatestinternal.com"
+test_url: "https://demo.lambdatestinternal.com"
 
 # Tunnel configuration (optional)
 # tunnel_name: "your_tunnel_name"
